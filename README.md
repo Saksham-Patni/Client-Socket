@@ -1,4 +1,5 @@
 # Client-Socket
+Licensed under the [MIT License](LICENSE)
 Client Socket to Solve Simple Mathematical Equations
 
 The program can be initiated be the following command with specific arguments
